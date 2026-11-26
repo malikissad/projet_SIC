@@ -1,0 +1,32 @@
+{
+  "id" : "licence",
+  "name" : "licence",
+  "type" : "form",
+  "uuid" : "424e5b78-c7ec-4eb0-aff9-90affb187cce",
+  "modelVersion" : "2.6",
+  "lastUpdate" : 1795700965724,
+  "description" : "Page generated with Bonita UI designer",
+  "rows" : [
+    [ ]
+  ],
+  "variables" : { },
+  "assets" : [
+    {
+      "id" : "f0061405-db40-4036-9c77-80799836184f",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "c2b3a300-5cbc-4001-8e96-29ef94db46fa",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "webResources" : [ ],
+  "hasValidationError" : false
+}
